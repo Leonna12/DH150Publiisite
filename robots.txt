@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://leonna12.github.io/DH150Publiisite/sitemap.xml

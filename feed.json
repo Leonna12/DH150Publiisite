@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "My Time at UCLA",
+    "description": "",
+    "home_page_url": "https://leonna12.github.io/DH150Publiisite",
+    "feed_url": "https://leonna12.github.io/DH150Publiisite/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Leonna Gaither"
+    },
+    "items": [
+    ]
+}
